@@ -1,3 +1,4 @@
+
 public class EvenIndexElements {
     public static void main(String[] args) {
 
