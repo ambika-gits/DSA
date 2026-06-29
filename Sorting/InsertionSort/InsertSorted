@@ -1,0 +1,28 @@
+public class InsertSorted {
+
+    public static void main(String[] args) {
+
+        int[] arr = new int[6];
+
+        arr[0] = 10;
+        arr[1] = 20;
+        arr[2] = 30;
+        arr[3] = 40;
+        arr[4] = 50;
+
+        int size = 5;
+        int element = 35;
+
+        int i = size - 1;
+
+        while (i >= 0 && arr[i] > element) {
+            arr[i + 1] = arr[i];
+            i--;
+        }
+
+        arr[i + 1] = element;
+
+        for (int j = 0; j <= size; j++)
+            System.out.print(arr[j] + " ");
+    }
+}
