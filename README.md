@@ -1,81 +1,48 @@
-# 🚀 Java DSA - Placement Preparation
+# Hi 👋 I'm Ambika
 
-Welcome to my **Java DSA (Data Structures & Algorithms)** repository.
+### B.Tech CSE Student
 
-This repository contains my daily Java solutions as part of my placement and internship preparation journey.
+Passionate about
 
-## 📅 Challenge
-
-- Solve DSA problems every day
-- Push code daily on GitHub
-- Improve problem-solving skills
-- Prepare for coding interviews
-
----
-
-## 📚 Topics Covered
-
-- ✅ Arrays
-- ✅ Array Patterns
-- 🔄 Sorting Algorithms
-- ⏳ Binary Search
-- ⏳ Strings
-- ⏳ Recursion
-- ⏳ Matrix
-- ⏳ HashMap
-- ⏳ Sliding Window
-- ⏳ Two Pointers
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Linked List
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
+- Java Development
+- Data Structures & Algorithms
+- Machine Learning
+- Computer Vision
+- Web Development
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Skills
 
-```
-DSA
-│
-├── Arrays
-├── ArrayPatterns
-├── 03_Sorting
-├── 04_BinarySearch
-├── 05_Strings
-├── 06_Recursion
-├── 07_Matrix
-├── 08_HashMap
-├── 09_SlidingWindow
-├── 10_TwoPointers
-├── 11_Stack
-├── 12_Queue
-├── 13_LinkedList
-├── 14_Trees
-├── 15_Graphs
-└── README.md
-```
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- OpenCV
+- YOLOv8
 
 ---
 
+## 📚 Currently Learning
 
-
----
-
-## 💻 Language
-
-- Java ☕
-
----
-
-## 🎯 Goal
-
-- Solve **150+ Java DSA Problems**
-- Build a strong GitHub profile
-- Prepare for Internship & Placement Interviews
-- Improve coding and problem-solving skills
+- DSA in Java
+- Spring Boot
+- React
+- System Design
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+## 📈 GitHub Stats
+
+
+
+## Featured Projects
+
+🦺 Factory Safety Helmet Detection
+
+🌦️ Weather App
+
+☕ Java DSA
