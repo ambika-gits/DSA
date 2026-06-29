@@ -59,15 +59,7 @@ DSA
 
 ---
 
-## 📈 Progress Tracker
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Arrays | ✅ Completed |
-| Day 2 | Array Patterns | ✅ Completed |
-| Day 3 | Sorting Algorithms | ✅ Completed |
-| Day 4 | Binary Search | ⏳ Coming Soon |
-| Day 5 | Strings | ⏳ Coming Soon |
 
 ---
 
